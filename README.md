@@ -8,6 +8,9 @@ this is hongdouzza
 - 📫 How to reach me: 1747480774@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: here is my blog, hongdouzza.cn
+  
+![hongdouzza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongdouzza&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongdouzza&layout=compact&theme=tokyonight)
 
 <!--
 **hongdouzza/hongdouzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
