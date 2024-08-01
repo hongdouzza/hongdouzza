@@ -1,12 +1,13 @@
 ## Hi there 👋
 this is hongdouzza
-- 🌱 I’m currently learning in HDU
+- 🔭 I’m currently working on computer sicense in HDU
+- 🌱 I’m currently learning in web development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...er ,actually, commucate with me much better than asking me 
 - 📫 How to reach me: 1747480774@qq.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: here is my blog, hongdouzza.cn
 
 <!--
 **hongdouzza/hongdouzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
